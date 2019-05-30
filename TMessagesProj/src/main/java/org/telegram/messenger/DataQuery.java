@@ -66,7 +66,7 @@ import java.util.Map;
 public class DataQuery {
 
     private int currentAccount;
-    private static volatile DataQuery[] Instance = new DataQuery[3];
+    private static volatile DataQuery[] Instance = new DataQuery[111]; // prafulla_edit: changed data query array to 111
     public static DataQuery getInstance(int num) {
         DataQuery localInstance = Instance[num];
         if (localInstance == null) {
