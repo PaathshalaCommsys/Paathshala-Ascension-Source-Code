@@ -12,13 +12,13 @@
 #include <functional>
 #include <list>
 #include <limits.h>
-#include <bits/unique_ptr.h>
+// #include <bits/unique_ptr.h>
 #include <sstream>
 #include <inttypes.h>
 #include "ByteArray.h"
 
 #define USE_DEBUG_SESSION false
-#define READ_BUFFER_SIZE 1024 * 128
+#define READ_BUFFER_SIZE 4000 * 128
 //#define DEBUG_VERSION
 #define USE_OLD_KEYS
 #define PFS_ENABLED 0
@@ -29,7 +29,7 @@
 #define DOWNLOAD_CONNECTIONS_COUNT 2
 #define UPLOAD_CONNECTIONS_COUNT 4
 #define CONNECTION_BACKGROUND_KEEP_TIME 10000
-#define MAX_ACCOUNT_COUNT 3
+#define MAX_ACCOUNT_COUNT 111
 
 #define DOWNLOAD_CHUNK_SIZE 1024 * 32
 #define DOWNLOAD_CHUNK_BIG_SIZE 1024 * 128
