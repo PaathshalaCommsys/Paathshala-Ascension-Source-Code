@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "736775572413",
+    "firebase_url": "https://paathshala-herald.firebaseio.com",
+    "project_id": "paathshala-herald",
+    "storage_bucket": "paathshala-herald.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736775572413:android:f6afd7b67eae3860",
+        "android_client_info": {
+          "package_name": "org.telegram.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736775572413-cnv1j2qsjvpfk24epin3f7j37m78t1p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHu_5As2GdluM3T6wJj53wmjhd2Eov-d4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736775572413-cnv1j2qsjvpfk24epin3f7j37m78t1p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
