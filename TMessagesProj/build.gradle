@@ -80,8 +80,7 @@ android {
         debug {
             debuggable true
             jniDebuggable true
-            signingConfig signingConfigs.debug
-            applicationIdSuffix ".beta"
+           // signingConfig signingConfigs.debug
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
@@ -273,6 +272,8 @@ android {
                 arguments "NDK_APPLICATION_MK:=jni/Application.mk", "APP_PLATFORM:=android-16", "-j8"
                 abiFilters "armeabi-v7a", "arm64-v8a", "x86", "x86_64"
             }
+
+
         }
 
         manifestPlaceholders = [applicationClassName:"ApplicationLoader"]
