@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "736775572413",
-    "firebase_url": "https://paathshala-herald.firebaseio.com",
-    "project_id": "paathshala-herald",
-    "storage_bucket": "paathshala-herald.appspot.com"
+    "project_number": "1055570482947",
+    "firebase_url": "https://paathshala-commsys.firebaseio.com",
+    "project_id": "paathshala-commsys",
+    "storage_bucket": "paathshala-commsys.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:736775572413:android:f6afd7b67eae3860",
+        "mobilesdk_app_id": "1:1055570482947:android:296bae4fe8730d6f",
         "android_client_info": {
-          "package_name": "org.telegram.messenger"
+          "package_name": "org.paathshala.commsys"
         }
       },
       "oauth_client": [
         {
-          "client_id": "736775572413-cnv1j2qsjvpfk24epin3f7j37m78t1p4.apps.googleusercontent.com",
+          "client_id": "1055570482947-aue5274ipc9ndhkiuado9jfvjutpism2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBHu_5As2GdluM3T6wJj53wmjhd2Eov-d4"
+          "current_key": "AIzaSyCD1siHE-_GJsDYSTnI1Z-fYOR6eslT7sQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "736775572413-cnv1j2qsjvpfk24epin3f7j37m78t1p4.apps.googleusercontent.com",
+              "client_id": "1055570482947-aue5274ipc9ndhkiuado9jfvjutpism2.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

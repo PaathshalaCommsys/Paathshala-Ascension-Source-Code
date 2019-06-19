@@ -248,7 +248,7 @@ int64_t seekCallback(void *opaque, int64_t offset, int whence) {
     return 0;
 }
 
-jlong Java_org_telegram_ui_Components_AnimatedFileDrawable_createDecoder(JNIEnv *env, jclass clazz, jstring src, jintArray data, jint account, jlong streamFileSize, jobject stream) {
+jlong Java_org_paathshala_ui_Components_AnimatedFileDrawable_createDecoder(JNIEnv *env, jclass clazz, jstring src, jintArray data, jint account, jlong streamFileSize, jobject stream) {
     VideoInfo *info = new VideoInfo();
     
     char const *srcString = env->GetStringUTFChars(src, 0);
@@ -347,7 +347,7 @@ jlong Java_org_telegram_ui_Components_AnimatedFileDrawable_createDecoder(JNIEnv 
     return (jlong) (intptr_t) info;
 }
 
-void Java_org_telegram_ui_Components_AnimatedFileDrawable_destroyDecoder(JNIEnv *env, jclass clazz, jlong ptr) {
+void Java_org_paathshala_ui_Components_AnimatedFileDrawable_destroyDecoder(JNIEnv *env, jclass clazz, jlong ptr) {
     if (ptr == NULL) {
         return;
     }
@@ -372,7 +372,7 @@ void Java_org_telegram_ui_Components_AnimatedFileDrawable_destroyDecoder(JNIEnv 
     delete info;
 }
 
-void Java_org_telegram_ui_Components_AnimatedFileDrawable_stopDecoder(JNIEnv *env, jclass clazz, jlong ptr) {
+void Java_org_paathshala_ui_Components_AnimatedFileDrawable_stopDecoder(JNIEnv *env, jclass clazz, jlong ptr) {
     if (ptr == NULL) {
         return;
     }
@@ -380,7 +380,7 @@ void Java_org_telegram_ui_Components_AnimatedFileDrawable_stopDecoder(JNIEnv *en
     info->stopped = true;
 }
 
-void Java_org_telegram_ui_Components_AnimatedFileDrawable_prepareToSeek(JNIEnv *env, jclass clazz, jlong ptr) {
+void Java_org_paathshala_ui_Components_AnimatedFileDrawable_prepareToSeek(JNIEnv *env, jclass clazz, jlong ptr) {
     if (ptr == NULL) {
         return;
     }
@@ -388,7 +388,7 @@ void Java_org_telegram_ui_Components_AnimatedFileDrawable_prepareToSeek(JNIEnv *
     info->seeking = true;
 }
 
-void Java_org_telegram_ui_Components_AnimatedFileDrawable_seekToMs(JNIEnv *env, jclass clazz, jlong ptr, jlong ms) {
+void Java_org_paathshala_ui_Components_AnimatedFileDrawable_seekToMs(JNIEnv *env, jclass clazz, jlong ptr, jlong ms) {
     if (ptr == NULL) {
         return;
     }
@@ -459,7 +459,7 @@ void Java_org_telegram_ui_Components_AnimatedFileDrawable_seekToMs(JNIEnv *env, 
     }
 }
     
-jint Java_org_telegram_ui_Components_AnimatedFileDrawable_getVideoFrame(JNIEnv *env, jclass clazz, jlong ptr, jobject bitmap, jintArray data, jint stride) {
+jint Java_org_paathshala_ui_Components_AnimatedFileDrawable_getVideoFrame(JNIEnv *env, jclass clazz, jlong ptr, jobject bitmap, jintArray data, jint stride) {
     if (ptr == NULL || bitmap == nullptr) {
         return 0;
     }
@@ -581,7 +581,7 @@ jint Java_org_telegram_ui_Components_AnimatedFileDrawable_getVideoFrame(JNIEnv *
 }
 
 jint videoOnJNILoad(JavaVM *vm, JNIEnv *env) {
-    jclass_AnimatedFileDrawableStream = (jclass) env->NewGlobalRef(env->FindClass("org/telegram/messenger/AnimatedFileDrawableStream"));
+    jclass_AnimatedFileDrawableStream = (jclass) env->NewGlobalRef(env->FindClass("org/paathshala/commsys/AnimatedFileDrawableStream"));
     if (jclass_AnimatedFileDrawableStream == 0) {
         return JNI_FALSE;
     }
@@ -595,5 +595,4 @@ jint videoOnJNILoad(JavaVM *vm, JNIEnv *env) {
     }
 
     return JNI_TRUE;
-}
-}
+} }
