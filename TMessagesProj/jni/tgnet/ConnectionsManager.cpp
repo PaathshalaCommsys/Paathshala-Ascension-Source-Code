@@ -476,9 +476,2583 @@ ConnectionsManager& ConnectionsManager::getInstance(int32_t instanceNum) {
         case 109:
             static ConnectionsManager instance109(109);
             return instance109;
-        default:
+        case 110:
             static ConnectionsManager instance110(110);
             return instance110;
+        case 111:
+            static ConnectionsManager instance111(111);
+            return instance111;
+        case 112:
+            static ConnectionsManager instance112(112);
+            return instance112;
+        case 113:
+            static ConnectionsManager instance113(113);
+            return instance113;
+        case 114:
+            static ConnectionsManager instance114(114);
+            return instance114;
+        case 115:
+            static ConnectionsManager instance115(115);
+            return instance115;
+        case 116:
+            static ConnectionsManager instance116(116);
+            return instance116;
+        case 117:
+            static ConnectionsManager instance117(117);
+            return instance117;
+        case 118:
+            static ConnectionsManager instance118(118);
+            return instance118;
+        case 119:
+            static ConnectionsManager instance119(119);
+            return instance119;
+        case 120:
+            static ConnectionsManager instance120(120);
+            return instance120;
+        case 121:
+            static ConnectionsManager instance121(121);
+            return instance121;
+        case 122:
+            static ConnectionsManager instance122(122);
+            return instance122;
+        case 123:
+            static ConnectionsManager instance123(123);
+            return instance123;
+        case 124:
+            static ConnectionsManager instance124(124);
+            return instance124;
+        case 125:
+            static ConnectionsManager instance125(125);
+            return instance125;
+        case 126:
+            static ConnectionsManager instance126(126);
+            return instance126;
+        case 127:
+            static ConnectionsManager instance127(127);
+            return instance127;
+        case 128:
+            static ConnectionsManager instance128(128);
+            return instance128;
+        case 129:
+            static ConnectionsManager instance129(129);
+            return instance129;
+        case 130:
+            static ConnectionsManager instance130(130);
+            return instance130;
+        case 131:
+            static ConnectionsManager instance131(131);
+            return instance131;
+        case 132:
+            static ConnectionsManager instance132(132);
+            return instance132;
+        case 133:
+            static ConnectionsManager instance133(133);
+            return instance133;
+        case 134:
+            static ConnectionsManager instance134(134);
+            return instance134;
+        case 135:
+            static ConnectionsManager instance135(135);
+            return instance135;
+        case 136:
+            static ConnectionsManager instance136(136);
+            return instance136;
+        case 137:
+            static ConnectionsManager instance137(137);
+            return instance137;
+        case 138:
+            static ConnectionsManager instance138(138);
+            return instance138;
+        case 139:
+            static ConnectionsManager instance139(139);
+            return instance139;
+        case 140:
+            static ConnectionsManager instance140(140);
+            return instance140;
+        case 141:
+            static ConnectionsManager instance141(141);
+            return instance141;
+        case 142:
+            static ConnectionsManager instance142(142);
+            return instance142;
+        case 143:
+            static ConnectionsManager instance143(143);
+            return instance143;
+        case 144:
+            static ConnectionsManager instance144(144);
+            return instance144;
+        case 145:
+            static ConnectionsManager instance145(145);
+            return instance145;
+        case 146:
+            static ConnectionsManager instance146(146);
+            return instance146;
+        case 147:
+            static ConnectionsManager instance147(147);
+            return instance147;
+        case 148:
+            static ConnectionsManager instance148(148);
+            return instance148;
+        case 149:
+            static ConnectionsManager instance149(149);
+            return instance149;
+        case 150:
+            static ConnectionsManager instance150(150);
+            return instance150;
+        case 151:
+            static ConnectionsManager instance151(151);
+            return instance151;
+        case 152:
+            static ConnectionsManager instance152(152);
+            return instance152;
+        case 153:
+            static ConnectionsManager instance153(153);
+            return instance153;
+        case 154:
+            static ConnectionsManager instance154(154);
+            return instance154;
+        case 155:
+            static ConnectionsManager instance155(155);
+            return instance155;
+        case 156:
+            static ConnectionsManager instance156(156);
+            return instance156;
+        case 157:
+            static ConnectionsManager instance157(157);
+            return instance157;
+        case 158:
+            static ConnectionsManager instance158(158);
+            return instance158;
+        case 159:
+            static ConnectionsManager instance159(159);
+            return instance159;
+        case 160:
+            static ConnectionsManager instance160(160);
+            return instance160;
+        case 161:
+            static ConnectionsManager instance161(161);
+            return instance161;
+        case 162:
+            static ConnectionsManager instance162(162);
+            return instance162;
+        case 163:
+            static ConnectionsManager instance163(163);
+            return instance163;
+        case 164:
+            static ConnectionsManager instance164(164);
+            return instance164;
+        case 165:
+            static ConnectionsManager instance165(165);
+            return instance165;
+        case 166:
+            static ConnectionsManager instance166(166);
+            return instance166;
+        case 167:
+            static ConnectionsManager instance167(167);
+            return instance167;
+        case 168:
+            static ConnectionsManager instance168(168);
+            return instance168;
+        case 169:
+            static ConnectionsManager instance169(169);
+            return instance169;
+        case 170:
+            static ConnectionsManager instance170(170);
+            return instance170;
+        case 171:
+            static ConnectionsManager instance171(171);
+            return instance171;
+        case 172:
+            static ConnectionsManager instance172(172);
+            return instance172;
+        case 173:
+            static ConnectionsManager instance173(173);
+            return instance173;
+        case 174:
+            static ConnectionsManager instance174(174);
+            return instance174;
+        case 175:
+            static ConnectionsManager instance175(175);
+            return instance175;
+        case 176:
+            static ConnectionsManager instance176(176);
+            return instance176;
+        case 177:
+            static ConnectionsManager instance177(177);
+            return instance177;
+        case 178:
+            static ConnectionsManager instance178(178);
+            return instance178;
+        case 179:
+            static ConnectionsManager instance179(179);
+            return instance179;
+        case 180:
+            static ConnectionsManager instance180(180);
+            return instance180;
+        case 181:
+            static ConnectionsManager instance181(181);
+            return instance181;
+        case 182:
+            static ConnectionsManager instance182(182);
+            return instance182;
+        case 183:
+            static ConnectionsManager instance183(183);
+            return instance183;
+        case 184:
+            static ConnectionsManager instance184(184);
+            return instance184;
+        case 185:
+            static ConnectionsManager instance185(185);
+            return instance185;
+        case 186:
+            static ConnectionsManager instance186(186);
+            return instance186;
+        case 187:
+            static ConnectionsManager instance187(187);
+            return instance187;
+        case 188:
+            static ConnectionsManager instance188(188);
+            return instance188;
+        case 189:
+            static ConnectionsManager instance189(189);
+            return instance189;
+        case 190:
+            static ConnectionsManager instance190(190);
+            return instance190;
+        case 191:
+            static ConnectionsManager instance191(191);
+            return instance191;
+        case 192:
+            static ConnectionsManager instance192(192);
+            return instance192;
+        case 193:
+            static ConnectionsManager instance193(193);
+            return instance193;
+        case 194:
+            static ConnectionsManager instance194(194);
+            return instance194;
+        case 195:
+            static ConnectionsManager instance195(195);
+            return instance195;
+        case 196:
+            static ConnectionsManager instance196(196);
+            return instance196;
+        case 197:
+            static ConnectionsManager instance197(197);
+            return instance197;
+        case 198:
+            static ConnectionsManager instance198(198);
+            return instance198;
+        case 199:
+            static ConnectionsManager instance199(199);
+            return instance199;
+        case 200:
+            static ConnectionsManager instance200(200);
+            return instance200;
+        case 201:
+            static ConnectionsManager instance201(201);
+            return instance201;
+        case 202:
+            static ConnectionsManager instance202(202);
+            return instance202;
+        case 203:
+            static ConnectionsManager instance203(203);
+            return instance203;
+        case 204:
+            static ConnectionsManager instance204(204);
+            return instance204;
+        case 205:
+            static ConnectionsManager instance205(205);
+            return instance205;
+        case 206:
+            static ConnectionsManager instance206(206);
+            return instance206;
+        case 207:
+            static ConnectionsManager instance207(207);
+            return instance207;
+        case 208:
+            static ConnectionsManager instance208(208);
+            return instance208;
+        case 209:
+            static ConnectionsManager instance209(209);
+            return instance209;
+        case 210:
+            static ConnectionsManager instance210(210);
+            return instance210;
+        case 211:
+            static ConnectionsManager instance211(211);
+            return instance211;
+        case 212:
+            static ConnectionsManager instance212(212);
+            return instance212;
+        case 213:
+            static ConnectionsManager instance213(213);
+            return instance213;
+        case 214:
+            static ConnectionsManager instance214(214);
+            return instance214;
+        case 215:
+            static ConnectionsManager instance215(215);
+            return instance215;
+        case 216:
+            static ConnectionsManager instance216(216);
+            return instance216;
+        case 217:
+            static ConnectionsManager instance217(217);
+            return instance217;
+        case 218:
+            static ConnectionsManager instance218(218);
+            return instance218;
+        case 219:
+            static ConnectionsManager instance219(219);
+            return instance219;
+        case 220:
+            static ConnectionsManager instance220(220);
+            return instance220;
+        case 221:
+            static ConnectionsManager instance221(221);
+            return instance221;
+        case 222:
+            static ConnectionsManager instance222(222);
+            return instance222;
+        case 223:
+            static ConnectionsManager instance223(223);
+            return instance223;
+        case 224:
+            static ConnectionsManager instance224(224);
+            return instance224;
+        case 225:
+            static ConnectionsManager instance225(225);
+            return instance225;
+        case 226:
+            static ConnectionsManager instance226(226);
+            return instance226;
+        case 227:
+            static ConnectionsManager instance227(227);
+            return instance227;
+        case 228:
+            static ConnectionsManager instance228(228);
+            return instance228;
+        case 229:
+            static ConnectionsManager instance229(229);
+            return instance229;
+        case 230:
+            static ConnectionsManager instance230(230);
+            return instance230;
+        case 231:
+            static ConnectionsManager instance231(231);
+            return instance231;
+        case 232:
+            static ConnectionsManager instance232(232);
+            return instance232;
+        case 233:
+            static ConnectionsManager instance233(233);
+            return instance233;
+        case 234:
+            static ConnectionsManager instance234(234);
+            return instance234;
+        case 235:
+            static ConnectionsManager instance235(235);
+            return instance235;
+        case 236:
+            static ConnectionsManager instance236(236);
+            return instance236;
+        case 237:
+            static ConnectionsManager instance237(237);
+            return instance237;
+        case 238:
+            static ConnectionsManager instance238(238);
+            return instance238;
+        case 239:
+            static ConnectionsManager instance239(239);
+            return instance239;
+        case 240:
+            static ConnectionsManager instance240(240);
+            return instance240;
+        case 241:
+            static ConnectionsManager instance241(241);
+            return instance241;
+        case 242:
+            static ConnectionsManager instance242(242);
+            return instance242;
+        case 243:
+            static ConnectionsManager instance243(243);
+            return instance243;
+        case 244:
+            static ConnectionsManager instance244(244);
+            return instance244;
+        case 245:
+            static ConnectionsManager instance245(245);
+            return instance245;
+        case 246:
+            static ConnectionsManager instance246(246);
+            return instance246;
+        case 247:
+            static ConnectionsManager instance247(247);
+            return instance247;
+        case 248:
+            static ConnectionsManager instance248(248);
+            return instance248;
+        case 249:
+            static ConnectionsManager instance249(249);
+            return instance249;
+        case 250:
+            static ConnectionsManager instance250(250);
+            return instance250;
+        case 251:
+            static ConnectionsManager instance251(251);
+            return instance251;
+        case 252:
+            static ConnectionsManager instance252(252);
+            return instance252;
+        case 253:
+            static ConnectionsManager instance253(253);
+            return instance253;
+        case 254:
+            static ConnectionsManager instance254(254);
+            return instance254;
+        case 255:
+            static ConnectionsManager instance255(255);
+            return instance255;
+        case 256:
+            static ConnectionsManager instance256(256);
+            return instance256;
+        case 257:
+            static ConnectionsManager instance257(257);
+            return instance257;
+        case 258:
+            static ConnectionsManager instance258(258);
+            return instance258;
+        case 259:
+            static ConnectionsManager instance259(259);
+            return instance259;
+        case 260:
+            static ConnectionsManager instance260(260);
+            return instance260;
+        case 261:
+            static ConnectionsManager instance261(261);
+            return instance261;
+        case 262:
+            static ConnectionsManager instance262(262);
+            return instance262;
+        case 263:
+            static ConnectionsManager instance263(263);
+            return instance263;
+        case 264:
+            static ConnectionsManager instance264(264);
+            return instance264;
+        case 265:
+            static ConnectionsManager instance265(265);
+            return instance265;
+        case 266:
+            static ConnectionsManager instance266(266);
+            return instance266;
+        case 267:
+            static ConnectionsManager instance267(267);
+            return instance267;
+        case 268:
+            static ConnectionsManager instance268(268);
+            return instance268;
+        case 269:
+            static ConnectionsManager instance269(269);
+            return instance269;
+        case 270:
+            static ConnectionsManager instance270(270);
+            return instance270;
+        case 271:
+            static ConnectionsManager instance271(271);
+            return instance271;
+        case 272:
+            static ConnectionsManager instance272(272);
+            return instance272;
+        case 273:
+            static ConnectionsManager instance273(273);
+            return instance273;
+        case 274:
+            static ConnectionsManager instance274(274);
+            return instance274;
+        case 275:
+            static ConnectionsManager instance275(275);
+            return instance275;
+        case 276:
+            static ConnectionsManager instance276(276);
+            return instance276;
+        case 277:
+            static ConnectionsManager instance277(277);
+            return instance277;
+        case 278:
+            static ConnectionsManager instance278(278);
+            return instance278;
+        case 279:
+            static ConnectionsManager instance279(279);
+            return instance279;
+        case 280:
+            static ConnectionsManager instance280(280);
+            return instance280;
+        case 281:
+            static ConnectionsManager instance281(281);
+            return instance281;
+        case 282:
+            static ConnectionsManager instance282(282);
+            return instance282;
+        case 283:
+            static ConnectionsManager instance283(283);
+            return instance283;
+        case 284:
+            static ConnectionsManager instance284(284);
+            return instance284;
+        case 285:
+            static ConnectionsManager instance285(285);
+            return instance285;
+        case 286:
+            static ConnectionsManager instance286(286);
+            return instance286;
+        case 287:
+            static ConnectionsManager instance287(287);
+            return instance287;
+        case 288:
+            static ConnectionsManager instance288(288);
+            return instance288;
+        case 289:
+            static ConnectionsManager instance289(289);
+            return instance289;
+        case 290:
+            static ConnectionsManager instance290(290);
+            return instance290;
+        case 291:
+            static ConnectionsManager instance291(291);
+            return instance291;
+        case 292:
+            static ConnectionsManager instance292(292);
+            return instance292;
+        case 293:
+            static ConnectionsManager instance293(293);
+            return instance293;
+        case 294:
+            static ConnectionsManager instance294(294);
+            return instance294;
+        case 295:
+            static ConnectionsManager instance295(295);
+            return instance295;
+        case 296:
+            static ConnectionsManager instance296(296);
+            return instance296;
+        case 297:
+            static ConnectionsManager instance297(297);
+            return instance297;
+        case 298:
+            static ConnectionsManager instance298(298);
+            return instance298;
+        case 299:
+            static ConnectionsManager instance299(299);
+            return instance299;
+        case 300:
+            static ConnectionsManager instance300(300);
+            return instance300;
+        case 301:
+            static ConnectionsManager instance301(301);
+            return instance301;
+        case 302:
+            static ConnectionsManager instance302(302);
+            return instance302;
+        case 303:
+            static ConnectionsManager instance303(303);
+            return instance303;
+        case 304:
+            static ConnectionsManager instance304(304);
+            return instance304;
+        case 305:
+            static ConnectionsManager instance305(305);
+            return instance305;
+        case 306:
+            static ConnectionsManager instance306(306);
+            return instance306;
+        case 307:
+            static ConnectionsManager instance307(307);
+            return instance307;
+        case 308:
+            static ConnectionsManager instance308(308);
+            return instance308;
+        case 309:
+            static ConnectionsManager instance309(309);
+            return instance309;
+        case 310:
+            static ConnectionsManager instance310(310);
+            return instance310;
+        case 311:
+            static ConnectionsManager instance311(311);
+            return instance311;
+        case 312:
+            static ConnectionsManager instance312(312);
+            return instance312;
+        case 313:
+            static ConnectionsManager instance313(313);
+            return instance313;
+        case 314:
+            static ConnectionsManager instance314(314);
+            return instance314;
+        case 315:
+            static ConnectionsManager instance315(315);
+            return instance315;
+        case 316:
+            static ConnectionsManager instance316(316);
+            return instance316;
+        case 317:
+            static ConnectionsManager instance317(317);
+            return instance317;
+        case 318:
+            static ConnectionsManager instance318(318);
+            return instance318;
+        case 319:
+            static ConnectionsManager instance319(319);
+            return instance319;
+        case 320:
+            static ConnectionsManager instance320(320);
+            return instance320;
+        case 321:
+            static ConnectionsManager instance321(321);
+            return instance321;
+        case 322:
+            static ConnectionsManager instance322(322);
+            return instance322;
+        case 323:
+            static ConnectionsManager instance323(323);
+            return instance323;
+        case 324:
+            static ConnectionsManager instance324(324);
+            return instance324;
+        case 325:
+            static ConnectionsManager instance325(325);
+            return instance325;
+        case 326:
+            static ConnectionsManager instance326(326);
+            return instance326;
+        case 327:
+            static ConnectionsManager instance327(327);
+            return instance327;
+        case 328:
+            static ConnectionsManager instance328(328);
+            return instance328;
+        case 329:
+            static ConnectionsManager instance329(329);
+            return instance329;
+        case 330:
+            static ConnectionsManager instance330(330);
+            return instance330;
+        case 331:
+            static ConnectionsManager instance331(331);
+            return instance331;
+        case 332:
+            static ConnectionsManager instance332(332);
+            return instance332;
+        case 333:
+            static ConnectionsManager instance333(333);
+            return instance333;
+        case 334:
+            static ConnectionsManager instance334(334);
+            return instance334;
+        case 335:
+            static ConnectionsManager instance335(335);
+            return instance335;
+        case 336:
+            static ConnectionsManager instance336(336);
+            return instance336;
+        case 337:
+            static ConnectionsManager instance337(337);
+            return instance337;
+        case 338:
+            static ConnectionsManager instance338(338);
+            return instance338;
+        case 339:
+            static ConnectionsManager instance339(339);
+            return instance339;
+        case 340:
+            static ConnectionsManager instance340(340);
+            return instance340;
+        case 341:
+            static ConnectionsManager instance341(341);
+            return instance341;
+        case 342:
+            static ConnectionsManager instance342(342);
+            return instance342;
+        case 343:
+            static ConnectionsManager instance343(343);
+            return instance343;
+        case 344:
+            static ConnectionsManager instance344(344);
+            return instance344;
+        case 345:
+            static ConnectionsManager instance345(345);
+            return instance345;
+        case 346:
+            static ConnectionsManager instance346(346);
+            return instance346;
+        case 347:
+            static ConnectionsManager instance347(347);
+            return instance347;
+        case 348:
+            static ConnectionsManager instance348(348);
+            return instance348;
+        case 349:
+            static ConnectionsManager instance349(349);
+            return instance349;
+        case 350:
+            static ConnectionsManager instance350(350);
+            return instance350;
+        case 351:
+            static ConnectionsManager instance351(351);
+            return instance351;
+        case 352:
+            static ConnectionsManager instance352(352);
+            return instance352;
+        case 353:
+            static ConnectionsManager instance353(353);
+            return instance353;
+        case 354:
+            static ConnectionsManager instance354(354);
+            return instance354;
+        case 355:
+            static ConnectionsManager instance355(355);
+            return instance355;
+        case 356:
+            static ConnectionsManager instance356(356);
+            return instance356;
+        case 357:
+            static ConnectionsManager instance357(357);
+            return instance357;
+        case 358:
+            static ConnectionsManager instance358(358);
+            return instance358;
+        case 359:
+            static ConnectionsManager instance359(359);
+            return instance359;
+        case 360:
+            static ConnectionsManager instance360(360);
+            return instance360;
+        case 361:
+            static ConnectionsManager instance361(361);
+            return instance361;
+        case 362:
+            static ConnectionsManager instance362(362);
+            return instance362;
+        case 363:
+            static ConnectionsManager instance363(363);
+            return instance363;
+        case 364:
+            static ConnectionsManager instance364(364);
+            return instance364;
+        case 365:
+            static ConnectionsManager instance365(365);
+            return instance365;
+        case 366:
+            static ConnectionsManager instance366(366);
+            return instance366;
+        case 367:
+            static ConnectionsManager instance367(367);
+            return instance367;
+        case 368:
+            static ConnectionsManager instance368(368);
+            return instance368;
+        case 369:
+            static ConnectionsManager instance369(369);
+            return instance369;
+        case 370:
+            static ConnectionsManager instance370(370);
+            return instance370;
+        case 371:
+            static ConnectionsManager instance371(371);
+            return instance371;
+        case 372:
+            static ConnectionsManager instance372(372);
+            return instance372;
+        case 373:
+            static ConnectionsManager instance373(373);
+            return instance373;
+        case 374:
+            static ConnectionsManager instance374(374);
+            return instance374;
+        case 375:
+            static ConnectionsManager instance375(375);
+            return instance375;
+        case 376:
+            static ConnectionsManager instance376(376);
+            return instance376;
+        case 377:
+            static ConnectionsManager instance377(377);
+            return instance377;
+        case 378:
+            static ConnectionsManager instance378(378);
+            return instance378;
+        case 379:
+            static ConnectionsManager instance379(379);
+            return instance379;
+        case 380:
+            static ConnectionsManager instance380(380);
+            return instance380;
+        case 381:
+            static ConnectionsManager instance381(381);
+            return instance381;
+        case 382:
+            static ConnectionsManager instance382(382);
+            return instance382;
+        case 383:
+            static ConnectionsManager instance383(383);
+            return instance383;
+        case 384:
+            static ConnectionsManager instance384(384);
+            return instance384;
+        case 385:
+            static ConnectionsManager instance385(385);
+            return instance385;
+        case 386:
+            static ConnectionsManager instance386(386);
+            return instance386;
+        case 387:
+            static ConnectionsManager instance387(387);
+            return instance387;
+        case 388:
+            static ConnectionsManager instance388(388);
+            return instance388;
+        case 389:
+            static ConnectionsManager instance389(389);
+            return instance389;
+        case 390:
+            static ConnectionsManager instance390(390);
+            return instance390;
+        case 391:
+            static ConnectionsManager instance391(391);
+            return instance391;
+        case 392:
+            static ConnectionsManager instance392(392);
+            return instance392;
+        case 393:
+            static ConnectionsManager instance393(393);
+            return instance393;
+        case 394:
+            static ConnectionsManager instance394(394);
+            return instance394;
+        case 395:
+            static ConnectionsManager instance395(395);
+            return instance395;
+        case 396:
+            static ConnectionsManager instance396(396);
+            return instance396;
+        case 397:
+            static ConnectionsManager instance397(397);
+            return instance397;
+        case 398:
+            static ConnectionsManager instance398(398);
+            return instance398;
+        case 399:
+            static ConnectionsManager instance399(399);
+            return instance399;
+        case 400:
+            static ConnectionsManager instance400(400);
+            return instance400;
+        case 401:
+            static ConnectionsManager instance401(401);
+            return instance401;
+        case 402:
+            static ConnectionsManager instance402(402);
+            return instance402;
+        case 403:
+            static ConnectionsManager instance403(403);
+            return instance403;
+        case 404:
+            static ConnectionsManager instance404(404);
+            return instance404;
+        case 405:
+            static ConnectionsManager instance405(405);
+            return instance405;
+        case 406:
+            static ConnectionsManager instance406(406);
+            return instance406;
+        case 407:
+            static ConnectionsManager instance407(407);
+            return instance407;
+        case 408:
+            static ConnectionsManager instance408(408);
+            return instance408;
+        case 409:
+            static ConnectionsManager instance409(409);
+            return instance409;
+        case 410:
+            static ConnectionsManager instance410(410);
+            return instance410;
+        case 411:
+            static ConnectionsManager instance411(411);
+            return instance411;
+        case 412:
+            static ConnectionsManager instance412(412);
+            return instance412;
+        case 413:
+            static ConnectionsManager instance413(413);
+            return instance413;
+        case 414:
+            static ConnectionsManager instance414(414);
+            return instance414;
+        case 415:
+            static ConnectionsManager instance415(415);
+            return instance415;
+        case 416:
+            static ConnectionsManager instance416(416);
+            return instance416;
+        case 417:
+            static ConnectionsManager instance417(417);
+            return instance417;
+        case 418:
+            static ConnectionsManager instance418(418);
+            return instance418;
+        case 419:
+            static ConnectionsManager instance419(419);
+            return instance419;
+        case 420:
+            static ConnectionsManager instance420(420);
+            return instance420;
+        case 421:
+            static ConnectionsManager instance421(421);
+            return instance421;
+        case 422:
+            static ConnectionsManager instance422(422);
+            return instance422;
+        case 423:
+            static ConnectionsManager instance423(423);
+            return instance423;
+        case 424:
+            static ConnectionsManager instance424(424);
+            return instance424;
+        case 425:
+            static ConnectionsManager instance425(425);
+            return instance425;
+        case 426:
+            static ConnectionsManager instance426(426);
+            return instance426;
+        case 427:
+            static ConnectionsManager instance427(427);
+            return instance427;
+        case 428:
+            static ConnectionsManager instance428(428);
+            return instance428;
+        case 429:
+            static ConnectionsManager instance429(429);
+            return instance429;
+        case 430:
+            static ConnectionsManager instance430(430);
+            return instance430;
+        case 431:
+            static ConnectionsManager instance431(431);
+            return instance431;
+        case 432:
+            static ConnectionsManager instance432(432);
+            return instance432;
+        case 433:
+            static ConnectionsManager instance433(433);
+            return instance433;
+        case 434:
+            static ConnectionsManager instance434(434);
+            return instance434;
+        case 435:
+            static ConnectionsManager instance435(435);
+            return instance435;
+        case 436:
+            static ConnectionsManager instance436(436);
+            return instance436;
+        case 437:
+            static ConnectionsManager instance437(437);
+            return instance437;
+        case 438:
+            static ConnectionsManager instance438(438);
+            return instance438;
+        case 439:
+            static ConnectionsManager instance439(439);
+            return instance439;
+        case 440:
+            static ConnectionsManager instance440(440);
+            return instance440;
+        case 441:
+            static ConnectionsManager instance441(441);
+            return instance441;
+        case 442:
+            static ConnectionsManager instance442(442);
+            return instance442;
+        case 443:
+            static ConnectionsManager instance443(443);
+            return instance443;
+        case 444:
+            static ConnectionsManager instance444(444);
+            return instance444;
+        case 445:
+            static ConnectionsManager instance445(445);
+            return instance445;
+        case 446:
+            static ConnectionsManager instance446(446);
+            return instance446;
+        case 447:
+            static ConnectionsManager instance447(447);
+            return instance447;
+        case 448:
+            static ConnectionsManager instance448(448);
+            return instance448;
+        case 449:
+            static ConnectionsManager instance449(449);
+            return instance449;
+        case 450:
+            static ConnectionsManager instance450(450);
+            return instance450;
+        case 451:
+            static ConnectionsManager instance451(451);
+            return instance451;
+        case 452:
+            static ConnectionsManager instance452(452);
+            return instance452;
+        case 453:
+            static ConnectionsManager instance453(453);
+            return instance453;
+        case 454:
+            static ConnectionsManager instance454(454);
+            return instance454;
+        case 455:
+            static ConnectionsManager instance455(455);
+            return instance455;
+        case 456:
+            static ConnectionsManager instance456(456);
+            return instance456;
+        case 457:
+            static ConnectionsManager instance457(457);
+            return instance457;
+        case 458:
+            static ConnectionsManager instance458(458);
+            return instance458;
+        case 459:
+            static ConnectionsManager instance459(459);
+            return instance459;
+        case 460:
+            static ConnectionsManager instance460(460);
+            return instance460;
+        case 461:
+            static ConnectionsManager instance461(461);
+            return instance461;
+        case 462:
+            static ConnectionsManager instance462(462);
+            return instance462;
+        case 463:
+            static ConnectionsManager instance463(463);
+            return instance463;
+        case 464:
+            static ConnectionsManager instance464(464);
+            return instance464;
+        case 465:
+            static ConnectionsManager instance465(465);
+            return instance465;
+        case 466:
+            static ConnectionsManager instance466(466);
+            return instance466;
+        case 467:
+            static ConnectionsManager instance467(467);
+            return instance467;
+        case 468:
+            static ConnectionsManager instance468(468);
+            return instance468;
+        case 469:
+            static ConnectionsManager instance469(469);
+            return instance469;
+        case 470:
+            static ConnectionsManager instance470(470);
+            return instance470;
+        case 471:
+            static ConnectionsManager instance471(471);
+            return instance471;
+        case 472:
+            static ConnectionsManager instance472(472);
+            return instance472;
+        case 473:
+            static ConnectionsManager instance473(473);
+            return instance473;
+        case 474:
+            static ConnectionsManager instance474(474);
+            return instance474;
+        case 475:
+            static ConnectionsManager instance475(475);
+            return instance475;
+        case 476:
+            static ConnectionsManager instance476(476);
+            return instance476;
+        case 477:
+            static ConnectionsManager instance477(477);
+            return instance477;
+        case 478:
+            static ConnectionsManager instance478(478);
+            return instance478;
+        case 479:
+            static ConnectionsManager instance479(479);
+            return instance479;
+        case 480:
+            static ConnectionsManager instance480(480);
+            return instance480;
+        case 481:
+            static ConnectionsManager instance481(481);
+            return instance481;
+        case 482:
+            static ConnectionsManager instance482(482);
+            return instance482;
+        case 483:
+            static ConnectionsManager instance483(483);
+            return instance483;
+        case 484:
+            static ConnectionsManager instance484(484);
+            return instance484;
+        case 485:
+            static ConnectionsManager instance485(485);
+            return instance485;
+        case 486:
+            static ConnectionsManager instance486(486);
+            return instance486;
+        case 487:
+            static ConnectionsManager instance487(487);
+            return instance487;
+        case 488:
+            static ConnectionsManager instance488(488);
+            return instance488;
+        case 489:
+            static ConnectionsManager instance489(489);
+            return instance489;
+        case 490:
+            static ConnectionsManager instance490(490);
+            return instance490;
+        case 491:
+            static ConnectionsManager instance491(491);
+            return instance491;
+        case 492:
+            static ConnectionsManager instance492(492);
+            return instance492;
+        case 493:
+            static ConnectionsManager instance493(493);
+            return instance493;
+        case 494:
+            static ConnectionsManager instance494(494);
+            return instance494;
+        case 495:
+            static ConnectionsManager instance495(495);
+            return instance495;
+        case 496:
+            static ConnectionsManager instance496(496);
+            return instance496;
+        case 497:
+            static ConnectionsManager instance497(497);
+            return instance497;
+        case 498:
+            static ConnectionsManager instance498(498);
+            return instance498;
+        case 499:
+            static ConnectionsManager instance499(499);
+            return instance499;
+        case 500:
+            static ConnectionsManager instance500(500);
+            return instance500;
+        case 501:
+            static ConnectionsManager instance501(501);
+            return instance501;
+        case 502:
+            static ConnectionsManager instance502(502);
+            return instance502;
+        case 503:
+            static ConnectionsManager instance503(503);
+            return instance503;
+        case 504:
+            static ConnectionsManager instance504(504);
+            return instance504;
+        case 505:
+            static ConnectionsManager instance505(505);
+            return instance505;
+        case 506:
+            static ConnectionsManager instance506(506);
+            return instance506;
+        case 507:
+            static ConnectionsManager instance507(507);
+            return instance507;
+        case 508:
+            static ConnectionsManager instance508(508);
+            return instance508;
+        case 509:
+            static ConnectionsManager instance509(509);
+            return instance509;
+        case 510:
+            static ConnectionsManager instance510(510);
+            return instance510;
+        case 511:
+            static ConnectionsManager instance511(511);
+            return instance511;
+        case 512:
+            static ConnectionsManager instance512(512);
+            return instance512;
+        case 513:
+            static ConnectionsManager instance513(513);
+            return instance513;
+        case 514:
+            static ConnectionsManager instance514(514);
+            return instance514;
+        case 515:
+            static ConnectionsManager instance515(515);
+            return instance515;
+        case 516:
+            static ConnectionsManager instance516(516);
+            return instance516;
+        case 517:
+            static ConnectionsManager instance517(517);
+            return instance517;
+        case 518:
+            static ConnectionsManager instance518(518);
+            return instance518;
+        case 519:
+            static ConnectionsManager instance519(519);
+            return instance519;
+        case 520:
+            static ConnectionsManager instance520(520);
+            return instance520;
+        case 521:
+            static ConnectionsManager instance521(521);
+            return instance521;
+        case 522:
+            static ConnectionsManager instance522(522);
+            return instance522;
+        case 523:
+            static ConnectionsManager instance523(523);
+            return instance523;
+        case 524:
+            static ConnectionsManager instance524(524);
+            return instance524;
+        case 525:
+            static ConnectionsManager instance525(525);
+            return instance525;
+        case 526:
+            static ConnectionsManager instance526(526);
+            return instance526;
+        case 527:
+            static ConnectionsManager instance527(527);
+            return instance527;
+        case 528:
+            static ConnectionsManager instance528(528);
+            return instance528;
+        case 529:
+            static ConnectionsManager instance529(529);
+            return instance529;
+        case 530:
+            static ConnectionsManager instance530(530);
+            return instance530;
+        case 531:
+            static ConnectionsManager instance531(531);
+            return instance531;
+        case 532:
+            static ConnectionsManager instance532(532);
+            return instance532;
+        case 533:
+            static ConnectionsManager instance533(533);
+            return instance533;
+        case 534:
+            static ConnectionsManager instance534(534);
+            return instance534;
+        case 535:
+            static ConnectionsManager instance535(535);
+            return instance535;
+        case 536:
+            static ConnectionsManager instance536(536);
+            return instance536;
+        case 537:
+            static ConnectionsManager instance537(537);
+            return instance537;
+        case 538:
+            static ConnectionsManager instance538(538);
+            return instance538;
+        case 539:
+            static ConnectionsManager instance539(539);
+            return instance539;
+        case 540:
+            static ConnectionsManager instance540(540);
+            return instance540;
+        case 541:
+            static ConnectionsManager instance541(541);
+            return instance541;
+        case 542:
+            static ConnectionsManager instance542(542);
+            return instance542;
+        case 543:
+            static ConnectionsManager instance543(543);
+            return instance543;
+        case 544:
+            static ConnectionsManager instance544(544);
+            return instance544;
+        case 545:
+            static ConnectionsManager instance545(545);
+            return instance545;
+        case 546:
+            static ConnectionsManager instance546(546);
+            return instance546;
+        case 547:
+            static ConnectionsManager instance547(547);
+            return instance547;
+        case 548:
+            static ConnectionsManager instance548(548);
+            return instance548;
+        case 549:
+            static ConnectionsManager instance549(549);
+            return instance549;
+        case 550:
+            static ConnectionsManager instance550(550);
+            return instance550;
+        case 551:
+            static ConnectionsManager instance551(551);
+            return instance551;
+        case 552:
+            static ConnectionsManager instance552(552);
+            return instance552;
+        case 553:
+            static ConnectionsManager instance553(553);
+            return instance553;
+        case 554:
+            static ConnectionsManager instance554(554);
+            return instance554;
+        case 555:
+            static ConnectionsManager instance555(555);
+            return instance555;
+        case 556:
+            static ConnectionsManager instance556(556);
+            return instance556;
+        case 557:
+            static ConnectionsManager instance557(557);
+            return instance557;
+        case 558:
+            static ConnectionsManager instance558(558);
+            return instance558;
+        case 559:
+            static ConnectionsManager instance559(559);
+            return instance559;
+        case 560:
+            static ConnectionsManager instance560(560);
+            return instance560;
+        case 561:
+            static ConnectionsManager instance561(561);
+            return instance561;
+        case 562:
+            static ConnectionsManager instance562(562);
+            return instance562;
+        case 563:
+            static ConnectionsManager instance563(563);
+            return instance563;
+        case 564:
+            static ConnectionsManager instance564(564);
+            return instance564;
+        case 565:
+            static ConnectionsManager instance565(565);
+            return instance565;
+        case 566:
+            static ConnectionsManager instance566(566);
+            return instance566;
+        case 567:
+            static ConnectionsManager instance567(567);
+            return instance567;
+        case 568:
+            static ConnectionsManager instance568(568);
+            return instance568;
+        case 569:
+            static ConnectionsManager instance569(569);
+            return instance569;
+        case 570:
+            static ConnectionsManager instance570(570);
+            return instance570;
+        case 571:
+            static ConnectionsManager instance571(571);
+            return instance571;
+        case 572:
+            static ConnectionsManager instance572(572);
+            return instance572;
+        case 573:
+            static ConnectionsManager instance573(573);
+            return instance573;
+        case 574:
+            static ConnectionsManager instance574(574);
+            return instance574;
+        case 575:
+            static ConnectionsManager instance575(575);
+            return instance575;
+        case 576:
+            static ConnectionsManager instance576(576);
+            return instance576;
+        case 577:
+            static ConnectionsManager instance577(577);
+            return instance577;
+        case 578:
+            static ConnectionsManager instance578(578);
+            return instance578;
+        case 579:
+            static ConnectionsManager instance579(579);
+            return instance579;
+        case 580:
+            static ConnectionsManager instance580(580);
+            return instance580;
+        case 581:
+            static ConnectionsManager instance581(581);
+            return instance581;
+        case 582:
+            static ConnectionsManager instance582(582);
+            return instance582;
+        case 583:
+            static ConnectionsManager instance583(583);
+            return instance583;
+        case 584:
+            static ConnectionsManager instance584(584);
+            return instance584;
+        case 585:
+            static ConnectionsManager instance585(585);
+            return instance585;
+        case 586:
+            static ConnectionsManager instance586(586);
+            return instance586;
+        case 587:
+            static ConnectionsManager instance587(587);
+            return instance587;
+        case 588:
+            static ConnectionsManager instance588(588);
+            return instance588;
+        case 589:
+            static ConnectionsManager instance589(589);
+            return instance589;
+        case 590:
+            static ConnectionsManager instance590(590);
+            return instance590;
+        case 591:
+            static ConnectionsManager instance591(591);
+            return instance591;
+        case 592:
+            static ConnectionsManager instance592(592);
+            return instance592;
+        case 593:
+            static ConnectionsManager instance593(593);
+            return instance593;
+        case 594:
+            static ConnectionsManager instance594(594);
+            return instance594;
+        case 595:
+            static ConnectionsManager instance595(595);
+            return instance595;
+        case 596:
+            static ConnectionsManager instance596(596);
+            return instance596;
+        case 597:
+            static ConnectionsManager instance597(597);
+            return instance597;
+        case 598:
+            static ConnectionsManager instance598(598);
+            return instance598;
+        case 599:
+            static ConnectionsManager instance599(599);
+            return instance599;
+        case 600:
+            static ConnectionsManager instance600(600);
+            return instance600;
+        case 601:
+            static ConnectionsManager instance601(601);
+            return instance601;
+        case 602:
+            static ConnectionsManager instance602(602);
+            return instance602;
+        case 603:
+            static ConnectionsManager instance603(603);
+            return instance603;
+        case 604:
+            static ConnectionsManager instance604(604);
+            return instance604;
+        case 605:
+            static ConnectionsManager instance605(605);
+            return instance605;
+        case 606:
+            static ConnectionsManager instance606(606);
+            return instance606;
+        case 607:
+            static ConnectionsManager instance607(607);
+            return instance607;
+        case 608:
+            static ConnectionsManager instance608(608);
+            return instance608;
+        case 609:
+            static ConnectionsManager instance609(609);
+            return instance609;
+        case 610:
+            static ConnectionsManager instance610(610);
+            return instance610;
+        case 611:
+            static ConnectionsManager instance611(611);
+            return instance611;
+        case 612:
+            static ConnectionsManager instance612(612);
+            return instance612;
+        case 613:
+            static ConnectionsManager instance613(613);
+            return instance613;
+        case 614:
+            static ConnectionsManager instance614(614);
+            return instance614;
+        case 615:
+            static ConnectionsManager instance615(615);
+            return instance615;
+        case 616:
+            static ConnectionsManager instance616(616);
+            return instance616;
+        case 617:
+            static ConnectionsManager instance617(617);
+            return instance617;
+        case 618:
+            static ConnectionsManager instance618(618);
+            return instance618;
+        case 619:
+            static ConnectionsManager instance619(619);
+            return instance619;
+        case 620:
+            static ConnectionsManager instance620(620);
+            return instance620;
+        case 621:
+            static ConnectionsManager instance621(621);
+            return instance621;
+        case 622:
+            static ConnectionsManager instance622(622);
+            return instance622;
+        case 623:
+            static ConnectionsManager instance623(623);
+            return instance623;
+        case 624:
+            static ConnectionsManager instance624(624);
+            return instance624;
+        case 625:
+            static ConnectionsManager instance625(625);
+            return instance625;
+        case 626:
+            static ConnectionsManager instance626(626);
+            return instance626;
+        case 627:
+            static ConnectionsManager instance627(627);
+            return instance627;
+        case 628:
+            static ConnectionsManager instance628(628);
+            return instance628;
+        case 629:
+            static ConnectionsManager instance629(629);
+            return instance629;
+        case 630:
+            static ConnectionsManager instance630(630);
+            return instance630;
+        case 631:
+            static ConnectionsManager instance631(631);
+            return instance631;
+        case 632:
+            static ConnectionsManager instance632(632);
+            return instance632;
+        case 633:
+            static ConnectionsManager instance633(633);
+            return instance633;
+        case 634:
+            static ConnectionsManager instance634(634);
+            return instance634;
+        case 635:
+            static ConnectionsManager instance635(635);
+            return instance635;
+        case 636:
+            static ConnectionsManager instance636(636);
+            return instance636;
+        case 637:
+            static ConnectionsManager instance637(637);
+            return instance637;
+        case 638:
+            static ConnectionsManager instance638(638);
+            return instance638;
+        case 639:
+            static ConnectionsManager instance639(639);
+            return instance639;
+        case 640:
+            static ConnectionsManager instance640(640);
+            return instance640;
+        case 641:
+            static ConnectionsManager instance641(641);
+            return instance641;
+        case 642:
+            static ConnectionsManager instance642(642);
+            return instance642;
+        case 643:
+            static ConnectionsManager instance643(643);
+            return instance643;
+        case 644:
+            static ConnectionsManager instance644(644);
+            return instance644;
+        case 645:
+            static ConnectionsManager instance645(645);
+            return instance645;
+        case 646:
+            static ConnectionsManager instance646(646);
+            return instance646;
+        case 647:
+            static ConnectionsManager instance647(647);
+            return instance647;
+        case 648:
+            static ConnectionsManager instance648(648);
+            return instance648;
+        case 649:
+            static ConnectionsManager instance649(649);
+            return instance649;
+        case 650:
+            static ConnectionsManager instance650(650);
+            return instance650;
+        case 651:
+            static ConnectionsManager instance651(651);
+            return instance651;
+        case 652:
+            static ConnectionsManager instance652(652);
+            return instance652;
+        case 653:
+            static ConnectionsManager instance653(653);
+            return instance653;
+        case 654:
+            static ConnectionsManager instance654(654);
+            return instance654;
+        case 655:
+            static ConnectionsManager instance655(655);
+            return instance655;
+        case 656:
+            static ConnectionsManager instance656(656);
+            return instance656;
+        case 657:
+            static ConnectionsManager instance657(657);
+            return instance657;
+        case 658:
+            static ConnectionsManager instance658(658);
+            return instance658;
+        case 659:
+            static ConnectionsManager instance659(659);
+            return instance659;
+        case 660:
+            static ConnectionsManager instance660(660);
+            return instance660;
+        case 661:
+            static ConnectionsManager instance661(661);
+            return instance661;
+        case 662:
+            static ConnectionsManager instance662(662);
+            return instance662;
+        case 663:
+            static ConnectionsManager instance663(663);
+            return instance663;
+        case 664:
+            static ConnectionsManager instance664(664);
+            return instance664;
+        case 665:
+            static ConnectionsManager instance665(665);
+            return instance665;
+        case 666:
+            static ConnectionsManager instance666(666);
+            return instance666;
+        case 667:
+            static ConnectionsManager instance667(667);
+            return instance667;
+        case 668:
+            static ConnectionsManager instance668(668);
+            return instance668;
+        case 669:
+            static ConnectionsManager instance669(669);
+            return instance669;
+        case 670:
+            static ConnectionsManager instance670(670);
+            return instance670;
+        case 671:
+            static ConnectionsManager instance671(671);
+            return instance671;
+        case 672:
+            static ConnectionsManager instance672(672);
+            return instance672;
+        case 673:
+            static ConnectionsManager instance673(673);
+            return instance673;
+        case 674:
+            static ConnectionsManager instance674(674);
+            return instance674;
+        case 675:
+            static ConnectionsManager instance675(675);
+            return instance675;
+        case 676:
+            static ConnectionsManager instance676(676);
+            return instance676;
+        case 677:
+            static ConnectionsManager instance677(677);
+            return instance677;
+        case 678:
+            static ConnectionsManager instance678(678);
+            return instance678;
+        case 679:
+            static ConnectionsManager instance679(679);
+            return instance679;
+        case 680:
+            static ConnectionsManager instance680(680);
+            return instance680;
+        case 681:
+            static ConnectionsManager instance681(681);
+            return instance681;
+        case 682:
+            static ConnectionsManager instance682(682);
+            return instance682;
+        case 683:
+            static ConnectionsManager instance683(683);
+            return instance683;
+        case 684:
+            static ConnectionsManager instance684(684);
+            return instance684;
+        case 685:
+            static ConnectionsManager instance685(685);
+            return instance685;
+        case 686:
+            static ConnectionsManager instance686(686);
+            return instance686;
+        case 687:
+            static ConnectionsManager instance687(687);
+            return instance687;
+        case 688:
+            static ConnectionsManager instance688(688);
+            return instance688;
+        case 689:
+            static ConnectionsManager instance689(689);
+            return instance689;
+        case 690:
+            static ConnectionsManager instance690(690);
+            return instance690;
+        case 691:
+            static ConnectionsManager instance691(691);
+            return instance691;
+        case 692:
+            static ConnectionsManager instance692(692);
+            return instance692;
+        case 693:
+            static ConnectionsManager instance693(693);
+            return instance693;
+        case 694:
+            static ConnectionsManager instance694(694);
+            return instance694;
+        case 695:
+            static ConnectionsManager instance695(695);
+            return instance695;
+        case 696:
+            static ConnectionsManager instance696(696);
+            return instance696;
+        case 697:
+            static ConnectionsManager instance697(697);
+            return instance697;
+        case 698:
+            static ConnectionsManager instance698(698);
+            return instance698;
+        case 699:
+            static ConnectionsManager instance699(699);
+            return instance699;
+        case 700:
+            static ConnectionsManager instance700(700);
+            return instance700;
+        case 701:
+            static ConnectionsManager instance701(701);
+            return instance701;
+        case 702:
+            static ConnectionsManager instance702(702);
+            return instance702;
+        case 703:
+            static ConnectionsManager instance703(703);
+            return instance703;
+        case 704:
+            static ConnectionsManager instance704(704);
+            return instance704;
+        case 705:
+            static ConnectionsManager instance705(705);
+            return instance705;
+        case 706:
+            static ConnectionsManager instance706(706);
+            return instance706;
+        case 707:
+            static ConnectionsManager instance707(707);
+            return instance707;
+        case 708:
+            static ConnectionsManager instance708(708);
+            return instance708;
+        case 709:
+            static ConnectionsManager instance709(709);
+            return instance709;
+        case 710:
+            static ConnectionsManager instance710(710);
+            return instance710;
+        case 711:
+            static ConnectionsManager instance711(711);
+            return instance711;
+        case 712:
+            static ConnectionsManager instance712(712);
+            return instance712;
+        case 713:
+            static ConnectionsManager instance713(713);
+            return instance713;
+        case 714:
+            static ConnectionsManager instance714(714);
+            return instance714;
+        case 715:
+            static ConnectionsManager instance715(715);
+            return instance715;
+        case 716:
+            static ConnectionsManager instance716(716);
+            return instance716;
+        case 717:
+            static ConnectionsManager instance717(717);
+            return instance717;
+        case 718:
+            static ConnectionsManager instance718(718);
+            return instance718;
+        case 719:
+            static ConnectionsManager instance719(719);
+            return instance719;
+        case 720:
+            static ConnectionsManager instance720(720);
+            return instance720;
+        case 721:
+            static ConnectionsManager instance721(721);
+            return instance721;
+        case 722:
+            static ConnectionsManager instance722(722);
+            return instance722;
+        case 723:
+            static ConnectionsManager instance723(723);
+            return instance723;
+        case 724:
+            static ConnectionsManager instance724(724);
+            return instance724;
+        case 725:
+            static ConnectionsManager instance725(725);
+            return instance725;
+        case 726:
+            static ConnectionsManager instance726(726);
+            return instance726;
+        case 727:
+            static ConnectionsManager instance727(727);
+            return instance727;
+        case 728:
+            static ConnectionsManager instance728(728);
+            return instance728;
+        case 729:
+            static ConnectionsManager instance729(729);
+            return instance729;
+        case 730:
+            static ConnectionsManager instance730(730);
+            return instance730;
+        case 731:
+            static ConnectionsManager instance731(731);
+            return instance731;
+        case 732:
+            static ConnectionsManager instance732(732);
+            return instance732;
+        case 733:
+            static ConnectionsManager instance733(733);
+            return instance733;
+        case 734:
+            static ConnectionsManager instance734(734);
+            return instance734;
+        case 735:
+            static ConnectionsManager instance735(735);
+            return instance735;
+        case 736:
+            static ConnectionsManager instance736(736);
+            return instance736;
+        case 737:
+            static ConnectionsManager instance737(737);
+            return instance737;
+        case 738:
+            static ConnectionsManager instance738(738);
+            return instance738;
+        case 739:
+            static ConnectionsManager instance739(739);
+            return instance739;
+        case 740:
+            static ConnectionsManager instance740(740);
+            return instance740;
+        case 741:
+            static ConnectionsManager instance741(741);
+            return instance741;
+        case 742:
+            static ConnectionsManager instance742(742);
+            return instance742;
+        case 743:
+            static ConnectionsManager instance743(743);
+            return instance743;
+        case 744:
+            static ConnectionsManager instance744(744);
+            return instance744;
+        case 745:
+            static ConnectionsManager instance745(745);
+            return instance745;
+        case 746:
+            static ConnectionsManager instance746(746);
+            return instance746;
+        case 747:
+            static ConnectionsManager instance747(747);
+            return instance747;
+        case 748:
+            static ConnectionsManager instance748(748);
+            return instance748;
+        case 749:
+            static ConnectionsManager instance749(749);
+            return instance749;
+        case 750:
+            static ConnectionsManager instance750(750);
+            return instance750;
+        case 751:
+            static ConnectionsManager instance751(751);
+            return instance751;
+        case 752:
+            static ConnectionsManager instance752(752);
+            return instance752;
+        case 753:
+            static ConnectionsManager instance753(753);
+            return instance753;
+        case 754:
+            static ConnectionsManager instance754(754);
+            return instance754;
+        case 755:
+            static ConnectionsManager instance755(755);
+            return instance755;
+        case 756:
+            static ConnectionsManager instance756(756);
+            return instance756;
+        case 757:
+            static ConnectionsManager instance757(757);
+            return instance757;
+        case 758:
+            static ConnectionsManager instance758(758);
+            return instance758;
+        case 759:
+            static ConnectionsManager instance759(759);
+            return instance759;
+        case 760:
+            static ConnectionsManager instance760(760);
+            return instance760;
+        case 761:
+            static ConnectionsManager instance761(761);
+            return instance761;
+        case 762:
+            static ConnectionsManager instance762(762);
+            return instance762;
+        case 763:
+            static ConnectionsManager instance763(763);
+            return instance763;
+        case 764:
+            static ConnectionsManager instance764(764);
+            return instance764;
+        case 765:
+            static ConnectionsManager instance765(765);
+            return instance765;
+        case 766:
+            static ConnectionsManager instance766(766);
+            return instance766;
+        case 767:
+            static ConnectionsManager instance767(767);
+            return instance767;
+        case 768:
+            static ConnectionsManager instance768(768);
+            return instance768;
+        case 769:
+            static ConnectionsManager instance769(769);
+            return instance769;
+        case 770:
+            static ConnectionsManager instance770(770);
+            return instance770;
+        case 771:
+            static ConnectionsManager instance771(771);
+            return instance771;
+        case 772:
+            static ConnectionsManager instance772(772);
+            return instance772;
+        case 773:
+            static ConnectionsManager instance773(773);
+            return instance773;
+        case 774:
+            static ConnectionsManager instance774(774);
+            return instance774;
+        case 775:
+            static ConnectionsManager instance775(775);
+            return instance775;
+        case 776:
+            static ConnectionsManager instance776(776);
+            return instance776;
+        case 777:
+            static ConnectionsManager instance777(777);
+            return instance777;
+        case 778:
+            static ConnectionsManager instance778(778);
+            return instance778;
+        case 779:
+            static ConnectionsManager instance779(779);
+            return instance779;
+        case 780:
+            static ConnectionsManager instance780(780);
+            return instance780;
+        case 781:
+            static ConnectionsManager instance781(781);
+            return instance781;
+        case 782:
+            static ConnectionsManager instance782(782);
+            return instance782;
+        case 783:
+            static ConnectionsManager instance783(783);
+            return instance783;
+        case 784:
+            static ConnectionsManager instance784(784);
+            return instance784;
+        case 785:
+            static ConnectionsManager instance785(785);
+            return instance785;
+        case 786:
+            static ConnectionsManager instance786(786);
+            return instance786;
+        case 787:
+            static ConnectionsManager instance787(787);
+            return instance787;
+        case 788:
+            static ConnectionsManager instance788(788);
+            return instance788;
+        case 789:
+            static ConnectionsManager instance789(789);
+            return instance789;
+        case 790:
+            static ConnectionsManager instance790(790);
+            return instance790;
+        case 791:
+            static ConnectionsManager instance791(791);
+            return instance791;
+        case 792:
+            static ConnectionsManager instance792(792);
+            return instance792;
+        case 793:
+            static ConnectionsManager instance793(793);
+            return instance793;
+        case 794:
+            static ConnectionsManager instance794(794);
+            return instance794;
+        case 795:
+            static ConnectionsManager instance795(795);
+            return instance795;
+        case 796:
+            static ConnectionsManager instance796(796);
+            return instance796;
+        case 797:
+            static ConnectionsManager instance797(797);
+            return instance797;
+        case 798:
+            static ConnectionsManager instance798(798);
+            return instance798;
+        case 799:
+            static ConnectionsManager instance799(799);
+            return instance799;
+        case 800:
+            static ConnectionsManager instance800(800);
+            return instance800;
+        case 801:
+            static ConnectionsManager instance801(801);
+            return instance801;
+        case 802:
+            static ConnectionsManager instance802(802);
+            return instance802;
+        case 803:
+            static ConnectionsManager instance803(803);
+            return instance803;
+        case 804:
+            static ConnectionsManager instance804(804);
+            return instance804;
+        case 805:
+            static ConnectionsManager instance805(805);
+            return instance805;
+        case 806:
+            static ConnectionsManager instance806(806);
+            return instance806;
+        case 807:
+            static ConnectionsManager instance807(807);
+            return instance807;
+        case 808:
+            static ConnectionsManager instance808(808);
+            return instance808;
+        case 809:
+            static ConnectionsManager instance809(809);
+            return instance809;
+        case 810:
+            static ConnectionsManager instance810(810);
+            return instance810;
+        case 811:
+            static ConnectionsManager instance811(811);
+            return instance811;
+        case 812:
+            static ConnectionsManager instance812(812);
+            return instance812;
+        case 813:
+            static ConnectionsManager instance813(813);
+            return instance813;
+        case 814:
+            static ConnectionsManager instance814(814);
+            return instance814;
+        case 815:
+            static ConnectionsManager instance815(815);
+            return instance815;
+        case 816:
+            static ConnectionsManager instance816(816);
+            return instance816;
+        case 817:
+            static ConnectionsManager instance817(817);
+            return instance817;
+        case 818:
+            static ConnectionsManager instance818(818);
+            return instance818;
+        case 819:
+            static ConnectionsManager instance819(819);
+            return instance819;
+        case 820:
+            static ConnectionsManager instance820(820);
+            return instance820;
+        case 821:
+            static ConnectionsManager instance821(821);
+            return instance821;
+        case 822:
+            static ConnectionsManager instance822(822);
+            return instance822;
+        case 823:
+            static ConnectionsManager instance823(823);
+            return instance823;
+        case 824:
+            static ConnectionsManager instance824(824);
+            return instance824;
+        case 825:
+            static ConnectionsManager instance825(825);
+            return instance825;
+        case 826:
+            static ConnectionsManager instance826(826);
+            return instance826;
+        case 827:
+            static ConnectionsManager instance827(827);
+            return instance827;
+        case 828:
+            static ConnectionsManager instance828(828);
+            return instance828;
+        case 829:
+            static ConnectionsManager instance829(829);
+            return instance829;
+        case 830:
+            static ConnectionsManager instance830(830);
+            return instance830;
+        case 831:
+            static ConnectionsManager instance831(831);
+            return instance831;
+        case 832:
+            static ConnectionsManager instance832(832);
+            return instance832;
+        case 833:
+            static ConnectionsManager instance833(833);
+            return instance833;
+        case 834:
+            static ConnectionsManager instance834(834);
+            return instance834;
+        case 835:
+            static ConnectionsManager instance835(835);
+            return instance835;
+        case 836:
+            static ConnectionsManager instance836(836);
+            return instance836;
+        case 837:
+            static ConnectionsManager instance837(837);
+            return instance837;
+        case 838:
+            static ConnectionsManager instance838(838);
+            return instance838;
+        case 839:
+            static ConnectionsManager instance839(839);
+            return instance839;
+        case 840:
+            static ConnectionsManager instance840(840);
+            return instance840;
+        case 841:
+            static ConnectionsManager instance841(841);
+            return instance841;
+        case 842:
+            static ConnectionsManager instance842(842);
+            return instance842;
+        case 843:
+            static ConnectionsManager instance843(843);
+            return instance843;
+        case 844:
+            static ConnectionsManager instance844(844);
+            return instance844;
+        case 845:
+            static ConnectionsManager instance845(845);
+            return instance845;
+        case 846:
+            static ConnectionsManager instance846(846);
+            return instance846;
+        case 847:
+            static ConnectionsManager instance847(847);
+            return instance847;
+        case 848:
+            static ConnectionsManager instance848(848);
+            return instance848;
+        case 849:
+            static ConnectionsManager instance849(849);
+            return instance849;
+        case 850:
+            static ConnectionsManager instance850(850);
+            return instance850;
+        case 851:
+            static ConnectionsManager instance851(851);
+            return instance851;
+        case 852:
+            static ConnectionsManager instance852(852);
+            return instance852;
+        case 853:
+            static ConnectionsManager instance853(853);
+            return instance853;
+        case 854:
+            static ConnectionsManager instance854(854);
+            return instance854;
+        case 855:
+            static ConnectionsManager instance855(855);
+            return instance855;
+        case 856:
+            static ConnectionsManager instance856(856);
+            return instance856;
+        case 857:
+            static ConnectionsManager instance857(857);
+            return instance857;
+        case 858:
+            static ConnectionsManager instance858(858);
+            return instance858;
+        case 859:
+            static ConnectionsManager instance859(859);
+            return instance859;
+        case 860:
+            static ConnectionsManager instance860(860);
+            return instance860;
+        case 861:
+            static ConnectionsManager instance861(861);
+            return instance861;
+        case 862:
+            static ConnectionsManager instance862(862);
+            return instance862;
+        case 863:
+            static ConnectionsManager instance863(863);
+            return instance863;
+        case 864:
+            static ConnectionsManager instance864(864);
+            return instance864;
+        case 865:
+            static ConnectionsManager instance865(865);
+            return instance865;
+        case 866:
+            static ConnectionsManager instance866(866);
+            return instance866;
+        case 867:
+            static ConnectionsManager instance867(867);
+            return instance867;
+        case 868:
+            static ConnectionsManager instance868(868);
+            return instance868;
+        case 869:
+            static ConnectionsManager instance869(869);
+            return instance869;
+        case 870:
+            static ConnectionsManager instance870(870);
+            return instance870;
+        case 871:
+            static ConnectionsManager instance871(871);
+            return instance871;
+        case 872:
+            static ConnectionsManager instance872(872);
+            return instance872;
+        case 873:
+            static ConnectionsManager instance873(873);
+            return instance873;
+        case 874:
+            static ConnectionsManager instance874(874);
+            return instance874;
+        case 875:
+            static ConnectionsManager instance875(875);
+            return instance875;
+        case 876:
+            static ConnectionsManager instance876(876);
+            return instance876;
+        case 877:
+            static ConnectionsManager instance877(877);
+            return instance877;
+        case 878:
+            static ConnectionsManager instance878(878);
+            return instance878;
+        case 879:
+            static ConnectionsManager instance879(879);
+            return instance879;
+        case 880:
+            static ConnectionsManager instance880(880);
+            return instance880;
+        case 881:
+            static ConnectionsManager instance881(881);
+            return instance881;
+        case 882:
+            static ConnectionsManager instance882(882);
+            return instance882;
+        case 883:
+            static ConnectionsManager instance883(883);
+            return instance883;
+        case 884:
+            static ConnectionsManager instance884(884);
+            return instance884;
+        case 885:
+            static ConnectionsManager instance885(885);
+            return instance885;
+        case 886:
+            static ConnectionsManager instance886(886);
+            return instance886;
+        case 887:
+            static ConnectionsManager instance887(887);
+            return instance887;
+        case 888:
+            static ConnectionsManager instance888(888);
+            return instance888;
+        case 889:
+            static ConnectionsManager instance889(889);
+            return instance889;
+        case 890:
+            static ConnectionsManager instance890(890);
+            return instance890;
+        case 891:
+            static ConnectionsManager instance891(891);
+            return instance891;
+        case 892:
+            static ConnectionsManager instance892(892);
+            return instance892;
+        case 893:
+            static ConnectionsManager instance893(893);
+            return instance893;
+        case 894:
+            static ConnectionsManager instance894(894);
+            return instance894;
+        case 895:
+            static ConnectionsManager instance895(895);
+            return instance895;
+        case 896:
+            static ConnectionsManager instance896(896);
+            return instance896;
+        case 897:
+            static ConnectionsManager instance897(897);
+            return instance897;
+        case 898:
+            static ConnectionsManager instance898(898);
+            return instance898;
+        case 899:
+            static ConnectionsManager instance899(899);
+            return instance899;
+        case 900:
+            static ConnectionsManager instance900(900);
+            return instance900;
+        case 901:
+            static ConnectionsManager instance901(901);
+            return instance901;
+        case 902:
+            static ConnectionsManager instance902(902);
+            return instance902;
+        case 903:
+            static ConnectionsManager instance903(903);
+            return instance903;
+        case 904:
+            static ConnectionsManager instance904(904);
+            return instance904;
+        case 905:
+            static ConnectionsManager instance905(905);
+            return instance905;
+        case 906:
+            static ConnectionsManager instance906(906);
+            return instance906;
+        case 907:
+            static ConnectionsManager instance907(907);
+            return instance907;
+        case 908:
+            static ConnectionsManager instance908(908);
+            return instance908;
+        case 909:
+            static ConnectionsManager instance909(909);
+            return instance909;
+        case 910:
+            static ConnectionsManager instance910(910);
+            return instance910;
+        case 911:
+            static ConnectionsManager instance911(911);
+            return instance911;
+        case 912:
+            static ConnectionsManager instance912(912);
+            return instance912;
+        case 913:
+            static ConnectionsManager instance913(913);
+            return instance913;
+        case 914:
+            static ConnectionsManager instance914(914);
+            return instance914;
+        case 915:
+            static ConnectionsManager instance915(915);
+            return instance915;
+        case 916:
+            static ConnectionsManager instance916(916);
+            return instance916;
+        case 917:
+            static ConnectionsManager instance917(917);
+            return instance917;
+        case 918:
+            static ConnectionsManager instance918(918);
+            return instance918;
+        case 919:
+            static ConnectionsManager instance919(919);
+            return instance919;
+        case 920:
+            static ConnectionsManager instance920(920);
+            return instance920;
+        case 921:
+            static ConnectionsManager instance921(921);
+            return instance921;
+        case 922:
+            static ConnectionsManager instance922(922);
+            return instance922;
+        case 923:
+            static ConnectionsManager instance923(923);
+            return instance923;
+        case 924:
+            static ConnectionsManager instance924(924);
+            return instance924;
+        case 925:
+            static ConnectionsManager instance925(925);
+            return instance925;
+        case 926:
+            static ConnectionsManager instance926(926);
+            return instance926;
+        case 927:
+            static ConnectionsManager instance927(927);
+            return instance927;
+        case 928:
+            static ConnectionsManager instance928(928);
+            return instance928;
+        case 929:
+            static ConnectionsManager instance929(929);
+            return instance929;
+        case 930:
+            static ConnectionsManager instance930(930);
+            return instance930;
+        case 931:
+            static ConnectionsManager instance931(931);
+            return instance931;
+        case 932:
+            static ConnectionsManager instance932(932);
+            return instance932;
+        case 933:
+            static ConnectionsManager instance933(933);
+            return instance933;
+        case 934:
+            static ConnectionsManager instance934(934);
+            return instance934;
+        case 935:
+            static ConnectionsManager instance935(935);
+            return instance935;
+        case 936:
+            static ConnectionsManager instance936(936);
+            return instance936;
+        case 937:
+            static ConnectionsManager instance937(937);
+            return instance937;
+        case 938:
+            static ConnectionsManager instance938(938);
+            return instance938;
+        case 939:
+            static ConnectionsManager instance939(939);
+            return instance939;
+        case 940:
+            static ConnectionsManager instance940(940);
+            return instance940;
+        case 941:
+            static ConnectionsManager instance941(941);
+            return instance941;
+        case 942:
+            static ConnectionsManager instance942(942);
+            return instance942;
+        case 943:
+            static ConnectionsManager instance943(943);
+            return instance943;
+        case 944:
+            static ConnectionsManager instance944(944);
+            return instance944;
+        case 945:
+            static ConnectionsManager instance945(945);
+            return instance945;
+        case 946:
+            static ConnectionsManager instance946(946);
+            return instance946;
+        case 947:
+            static ConnectionsManager instance947(947);
+            return instance947;
+        case 948:
+            static ConnectionsManager instance948(948);
+            return instance948;
+        case 949:
+            static ConnectionsManager instance949(949);
+            return instance949;
+        case 950:
+            static ConnectionsManager instance950(950);
+            return instance950;
+        case 951:
+            static ConnectionsManager instance951(951);
+            return instance951;
+        case 952:
+            static ConnectionsManager instance952(952);
+            return instance952;
+        case 953:
+            static ConnectionsManager instance953(953);
+            return instance953;
+        case 954:
+            static ConnectionsManager instance954(954);
+            return instance954;
+        case 955:
+            static ConnectionsManager instance955(955);
+            return instance955;
+        case 956:
+            static ConnectionsManager instance956(956);
+            return instance956;
+        case 957:
+            static ConnectionsManager instance957(957);
+            return instance957;
+        case 958:
+            static ConnectionsManager instance958(958);
+            return instance958;
+        case 959:
+            static ConnectionsManager instance959(959);
+            return instance959;
+        case 960:
+            static ConnectionsManager instance960(960);
+            return instance960;
+        case 961:
+            static ConnectionsManager instance961(961);
+            return instance961;
+        case 962:
+            static ConnectionsManager instance962(962);
+            return instance962;
+        case 963:
+            static ConnectionsManager instance963(963);
+            return instance963;
+        case 964:
+            static ConnectionsManager instance964(964);
+            return instance964;
+        case 965:
+            static ConnectionsManager instance965(965);
+            return instance965;
+        case 966:
+            static ConnectionsManager instance966(966);
+            return instance966;
+        case 967:
+            static ConnectionsManager instance967(967);
+            return instance967;
+        default:
+            static ConnectionsManager instance968(968);
+            return instance968;
     }
 }
 
