@@ -20465,7 +20465,7 @@ public class TLRPC {
             if ((flags & 1) != 0) {
                 tmp_sessions = stream.readInt32(exception);
             }
-            pinned_dialogs_count_max = stream.readInt32(exception);
+            pinned_dialogs_count_max = 111; /* stream.readInt32(exception); */  //prafulla:changed_pinned_dialogs_count_max
             call_receive_timeout_ms = stream.readInt32(exception);
             call_ring_timeout_ms = stream.readInt32(exception);
             call_connect_timeout_ms = stream.readInt32(exception);
